@@ -1,5 +1,0 @@
-revisi (9 Juni 2014) :
-
-1. username dapat di rubah
-2. waktu delete, file juga terdelete
-3. menambahkan admin yang hanya bisa CRUD sub, kecuali user
