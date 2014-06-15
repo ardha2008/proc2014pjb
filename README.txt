@@ -1,3 +1,6 @@
+CARA PENGGUNAAN
+=========
+
 1. Buat database baru melalui phpmyadmin
 2. Import file .sql pada database yang telah dibuat
 3. Setting nama database yang digunakan pada file config.php
@@ -5,9 +8,9 @@
 
 NB : Lebih optimal menggunakan Google Chrome 30++
 
-================================================
-==================CHANGELOG=====================
-================================================
+
+CHANGELOG
+=========
 
 V1.0 - 22-05-2014
 1. Fitur Add,Edit jquery proc 
