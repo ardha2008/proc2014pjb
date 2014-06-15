@@ -13,27 +13,33 @@ CHANGELOG
 =========
 
 V1.0 - 22-05-2014
-<li> Fitur Add,Edit jquery proc</li> 
-<li>Menggunakan framework bootstrap (CSS), Glyphicon (Icon)</li>
+----------------
+1. Fitur Add,Edit jquery proc 
+2. Menggunakan framework bootstrap (CSS), Glyphicon (Icon)</li>
 
 V1.1 - 24-05-2014
+----------------
 1. Perbaikan bug edit, delete
 2. Penambahan modal.js
 3. Popup login, add,edit,delete
 
 V1.2 - 28-05-2014
+----------------
 1. Perbaikan list beberapa tabel yang tidak muncul
 2. Penambahan fitur paging
 
 V1.3 - 30-05-2014
+----------------
 1. Perbaikan database
 2. Penambahan fitur list user
 
 V1.4 - 01-06-2014
+----------------
 1. Perbaikan bug insert, data insert setelah refresh
 2. Penambahan Hak akses user (Sampel 15 Level + Superadmin) 
 
 V1.5 - 02-06-2014
+----------------
 1. Remove input file, manage files menu
 2. Manajemen file per user = 15 level + SU + Guest
 3. Added Upload file by Admin user
@@ -42,10 +48,12 @@ V1.5 - 02-06-2014
 6. Pagination on user (Guest user)
 
 V.1.6 - 10-06-2014
+----------------
 1. Fixed minor upload
 2. Add change password
 
 V1.7 - 14-06-2014
+----------------
 1. Perbaikan bug insert pada beberapa tabel
 2. Penambahan level management (Kantor pusat dapat memanage semua sub/file kecuali manage users)
 3. Penambahan limit file upload (max : 1000 KB/file)
