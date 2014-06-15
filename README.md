@@ -52,5 +52,4 @@ V1.7 - 14-06-2014
 4. Filter upload (Memperbolehkan file pdf, dan file text proses lainnya)
 5. Adding unlink (Database and file deleted at the same time)
 6. Penambahan fitur update username
-7. Penambahan environment develop, testing dan rilis (Fitur sederhana development)
-8. Export data as xls (Nama file sesuai dengan tanggal export)
+7. Export data as xls (Nama file sesuai dengan tanggal export)
