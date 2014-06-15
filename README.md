@@ -13,8 +13,8 @@ CHANGELOG
 =========
 
 V1.0 - 22-05-2014
-1. Fitur Add,Edit jquery proc 
-2. Menggunakan framework bootstrap (CSS), Glyphicon (Icon)
+<li> Fitur Add,Edit jquery proc</li> 
+<li>Menggunakan framework bootstrap (CSS), Glyphicon (Icon)</li>
 
 V1.1 - 24-05-2014
 1. Perbaikan bug edit, delete
